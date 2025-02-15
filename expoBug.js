@@ -1,0 +1,1 @@
+This error typically occurs when you're using an older version of Expo CLI or have conflicting dependencies in your project.  The core issue is that Expo's internal mechanisms for managing assets and dependencies fail to resolve correctly. This can manifest as an unexpected crash during the build process or an inability to start the development server.
